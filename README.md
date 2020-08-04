@@ -2,7 +2,7 @@
 
 <!-- **tartaponei/tartaponei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-####Me apaixonei por programação por acaso e cá estou tentando fazer disso a minha profissão de vida.
+#### Me apaixonei por programação por acaso e cá estou tentando fazer disso a minha profissão de vida.
 
 - 📢 I also speak English.
 - 🔭 Atualmente trabalho apenas em projetos pessoais.
