@@ -18,4 +18,4 @@
   - [Linkedin](https://www.linkedin.com/in/sarah-borrete-b8b06b1b4/)
   - [Spotify](https://open.spotify.com/user/little--jewel)
 
-- ⚡ Fun fact time: além de programar, eu canto, toco violão, escrevo, componho, posto minhas músicas, tento desenhar, vejo anime e dorama, tiro foto da natureza e construo casas e lotes no The Sims 4. Ah, eu também amo fazer e comer doces.
+- ⚡ Fun fact time: além de programar, eu canto, toco violão, escrevo, componho, posto minhas músicas, tento desenhar, vejo anime e dorama, leio tarô, tiro foto da natureza e construo casas e lotes no The Sims 4. Ah, eu também amo fazer e comer doces.
