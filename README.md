@@ -18,7 +18,7 @@
 - ⚡ Fun fact: além de programar, eu canto, toco violão, escrevo, componho, posto minhas músicas, tento desenhar, vejo anime e dorama, leio tarô, sou aromaterapeuta, tiro foto da natureza e construo casas e lotes no The Sims 4. E eu também sou perdidamente apaixonada pelo Polnareff.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tartaponei&layout=compact&langs_count=7&theme=dark%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tartaponei&layout=compact&langs_count=7&theme=dark%22/%3E"/>
 </div>
 
 ![](https://c.tenor.com/1KKRegoL_kUAAAAd/sign-language-signes.gif)
