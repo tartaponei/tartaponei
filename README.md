@@ -8,14 +8,14 @@
 - 🔭 Atualmente trabalho como desenvolvedora na Visão Coop e fui mediadora no projeto XBOOM. Também tenho meus projetos pessoais.
 - 🔭 Projeto final de Computação I (2019.2) em colaboração com @umabatatahacker [aqui](https://github.com/umabatatahacker/ProgramaParaCalcularADistanciaEntreAsLigacoesQuimicas)
 - 🎓 Tenho técnico em Informática pelo CP2 e estudo SI na UFRRJ.
-- 💻 Meu foco atual é Python e GML, mas também aprendi C/C++, C#, HTML e CSS, além de ter tido contato com Java e Javascript e o básico de BD (MySQL). Pretendo seguir pra Engenhearia de Software e/ou Web.
+- 💻 Meu foco atual é HTML/CSS, mas já foi Python e também aprendi C/C++, C# e um tico de GML, além de ter tido contato com Java e Javascript e o básico de BD (MySQL). Pretendo seguir pra Engenhearia de Software e Web. Sou melhor pensando em como organizar e fazer do que realmente fazer.
 - 📫 Contatos: 
   - Email: sarahborrete@gmail.com
   - PSN, Steam e Origin: tartaponei
   - [Linkedin](https://www.linkedin.com/in/sarah-borrete-b8b06b1b4/)
   - [Spotify](https://open.spotify.com/user/little--jewel)
 
-- ⚡ Fun fact: além de programar, eu canto, toco violão, escrevo, componho, posto minhas músicas, tento desenhar, vejo anime e dorama, leio tarô, sou aromaterapeuta, tiro foto da natureza e construo casas e lotes no The Sims 4. E eu também sou perdidamente apaixonada pelo Polnareff.
+- ⚡ Fun fact: eu canto, toco violão, escrevo, componho, posto minhas músicas, tento desenhar, vejo anime e dorama, leio tarô, sei sobre plantas e cristais, sou aromaterapeuta certificada e construo casinhas no The Sims 4. E eu também sou perdidamente apaixonada pelo Polnareff.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tartaponei&layout=compact&langs_count=7&theme=dark"/>
