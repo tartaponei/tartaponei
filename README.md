@@ -5,7 +5,8 @@
 #### Me apaixonei por programação por acaso e cá estou tentando fazer disso a minha profissão de vida.
 
 - 📢 I also speak English.
-- 🔭 Faço parte do PET-SI da UFRRJ e trabalho em projetos pessoais.
+- 💻 Portfolio de UX/UI [aqui](https://cor-e-forma.ghost.io/portfolio/)
+- 🔭 Faço parte do PET-SI da UFRRJ e trabalho em projetos pessoais. Fiz o design do site do [PET-SI UFRRJ](https://pet-si.ufrrj.br).
 - 🔭 Projeto final de Computação I (2019.2) em colaboração com @umabatatahacker [aqui](https://github.com/umabatatahacker/ProgramaParaCalcularADistanciaEntreAsLigacoesQuimicas)
 - 🎓 Tenho técnico em Informática pelo CP2 e estudo SI na UFRRJ.
 - 💻 Meu foco atual é UI/UX (convertendo pra código, HTML/CSS/Javscript/Svelte), mas já foi Python. Também aprendi C/C++, C# e um tico de GML, além de ter tido contato com Java e o básico de BD (MySQL). Sou melhor pensando em como organizar e fazer do que realmente fazer.
