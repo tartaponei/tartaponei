@@ -3,9 +3,9 @@
 <!-- **tartaponei/tartaponei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 #### Me apaixonei por programação por acaso e cá estou tentando fazer disso a minha profissão de vida.
+### 💻 Portfolio de UX/UI [aqui](https://cor-e-forma.ghost.io/portfolio/)
 
 - 📢 I also speak English.
-- 💻 Portfolio de UX/UI [aqui](https://cor-e-forma.ghost.io/portfolio/)
 - 🔭 Faço parte do PET-SI da UFRRJ e trabalho em projetos pessoais. Fiz o design do site do [PET-SI UFRRJ](https://pet-si.ufrrj.br).
 - 🔭 Projeto final de Computação I (2019.2) em colaboração com @umabatatahacker [aqui](https://github.com/umabatatahacker/ProgramaParaCalcularADistanciaEntreAsLigacoesQuimicas)
 - 🎓 Tenho técnico em Informática pelo CP2 e estudo SI na UFRRJ.
